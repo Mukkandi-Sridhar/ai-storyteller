@@ -1,4 +1,4 @@
-# AI Storyteller 📖🎙️
+# AI Storyteller 
 
 A simple AI-powered application that generates educational stories
 and converts them into audio.
